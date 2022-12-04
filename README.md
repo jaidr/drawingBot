@@ -1,5 +1,5 @@
 # drawingBot
-This project is meant to simplify the process of quick and accurate transfer of a drawing with a given image input on nft trading cards created by a web game.
+This project is meant to simplify the process of quick and accurate transfer of a drawing with a given image input on nft trading cards created by a web based trading card game.
 This is my first coding project.
 It was designed as way to reduce the human involvement from sketching on an overly simplified web interface.
 # Drawing method
