@@ -1,7 +1,7 @@
 # drawingBot
 This project is meant to simplify the process of quick and accurate transfer of a drawing with a given image input on nft trading cards created by a web game.
 # This is my first coding project
-# It was designed as way to reduce the human involvement from sketching on an overly simplified web interface
+It was designed as way to reduce the human involvement from sketching on an overly simplified web interface
 # Utilizing python's pyautogui, numpy, and cv2, I first take a given reference image as an input and perform image processing (using cv2) to get the neccesary data from the image
 # I then use the image data to find what colors from the web toolkit are available and pick the one that is closest
 # Using the information of color and location, I can now use pyautogui to utilize this and translate it into the web ui by going to each pixel from top left to bottom right (row by row)
