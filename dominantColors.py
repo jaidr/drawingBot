@@ -1,6 +1,8 @@
 import cv2
 import numpy as np
 
+# This code was created as a possible opportunity to further simplify the process of color picking by reducing the number of colors used from the palette.
+
 def create_bar(height, width, color):
     bar = np.zeros((height, width, 3), np.uint8)
     bar[:] = color
